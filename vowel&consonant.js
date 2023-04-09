@@ -29,4 +29,4 @@ function translatePigLatin(str) {
     }
 }
 
-translatePigLatin("glove");
+translatePigLatin("glove");// function call
